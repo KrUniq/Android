@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lesson1.iml" filepath="$PROJECT_DIR$/.idea/Lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lesson1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lesson1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lesson1.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lesson1.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lesson1.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lesson1.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lesson1.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lesson1.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buttonclicker/Lesson1.buttonclicker.iml" filepath="$PROJECT_DIR$/.idea/modules/buttonclicker/Lesson1.buttonclicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buttonclicker/Lesson1.buttonclicker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/buttonclicker/Lesson1.buttonclicker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buttonclicker/Lesson1.buttonclicker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/buttonclicker/Lesson1.buttonclicker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/buttonclicker/Lesson1.buttonclicker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/buttonclicker/Lesson1.buttonclicker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/control_lesson1/Lesson1.control_lesson1.iml" filepath="$PROJECT_DIR$/.idea/modules/control_lesson1/Lesson1.control_lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/control_lesson1/Lesson1.control_lesson1.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/control_lesson1/Lesson1.control_lesson1.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/control_lesson1/Lesson1.control_lesson1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/control_lesson1/Lesson1.control_lesson1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/control_lesson1/Lesson1.control_lesson1.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/control_lesson1/Lesson1.control_lesson1.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.main.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/Lesson1.layouttype.unitTest.iml" />
+    </modules>
+  </component>
+</project>
