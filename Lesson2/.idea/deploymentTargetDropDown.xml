@@ -2,16 +2,25 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
+      <entry key="activitylifecycle">
+        <State />
+      </entry>
       <entry key="app">
         <State />
       </entry>
-      <entry key="favoritebook">
+      <entry key="dialog">
         <State />
       </entry>
-      <entry key="intentapp">
+      <entry key="intentfilter">
         <State />
       </entry>
       <entry key="mireaproject">
+        <State />
+      </entry>
+      <entry key="multiactivity">
+        <State />
+      </entry>
+      <entry key="notificationapp">
         <State />
       </entry>
       <entry key="share">
@@ -24,6 +33,9 @@
         <State />
       </entry>
       <entry key="systemintentsapp">
+        <State />
+      </entry>
+      <entry key="toastapp">
         <State />
       </entry>
     </value>
