@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_data"
+            android:icon="@drawable/ic_launcher_foreground"
+            android:title="Data" />
+        <item
+            android:id="@+id/nav_webview"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="Internet" />
+        <item
+            android:id="@+id/nav_background"
+            android:icon="@android:drawable/ic_partial_secure"
+            android:title="Background" />
+        <item
+            android:id="@+id/SensorFragment"
+            android:icon="@android:drawable/arrow_down_float"
+            android:title="Sensor" />
+        <item
+            android:id="@+id/nav_micro"
+            android:icon="@android:drawable/ic_btn_speak_now"
+            android:title="Microphone"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Camera" />
+    </group>
+
+</menu>
