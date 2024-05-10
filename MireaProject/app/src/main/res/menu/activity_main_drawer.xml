@@ -29,6 +29,14 @@
             android:id="@+id/nav_camera"
             android:icon="@drawable/ic_menu_camera"
             android:title="Camera" />
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Profile" />
+        <item
+            android:id="@+id/fileWorkFragment"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="FileWork" />
     </group>
 
 </menu>
