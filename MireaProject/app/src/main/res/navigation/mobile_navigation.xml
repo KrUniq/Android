@@ -46,4 +46,14 @@
         android:name="ru.mirea.kharitonovakm.mireaproject.fileWorkFragment"
         android:label="fragment_file_work"
         tools:layout="@layout/fragment_file_work" />
+    <fragment
+        android:id="@+id/ShowDataFragment7"
+        android:name="ru.mirea.kharitonovakm.mireaproject.ShowDataFragment7"
+        android:label="fragment_show_data7"
+        tools:layout="@layout/fragment_show_data7" />
+    <fragment
+        android:id="@+id/nav_locations"
+        android:name="ru.mirea.kharitonovakm.mireaproject.LocationsFragment"
+        android:label="fragment_locations"
+        tools:layout="@layout/fragment_locations" />
 </navigation>
